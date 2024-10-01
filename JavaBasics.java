@@ -52,10 +52,10 @@ public class JavaBasics
 	
 	                         
 	    int $ = 29;        				 //  No, the statement will not give any error.
-	    System.out.println($);	  	    //  Names of variables are called identifiers in Java.
-										// Identifier rule says,identifier scan start with any alphabet
-									    // or underscore (“_”) or dollar (“$”). 
-									    // According to the rule the given variable name is a valid identifier.
+	    System.out.println($);	  	        //  Names of variables are called identifiers in Java.
+							// Identifier rule says,identifier scan start with any alphabet
+							// or underscore (“_”) or dollar (“$”). 
+							// According to the rule the given variable name is a valid identifier.
 														              
 				               
 
