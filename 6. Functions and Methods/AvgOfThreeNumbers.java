@@ -1,4 +1,4 @@
-package com.saisree.functions;
+
 import java.util.*;
 public class AvgOfThreeNumbers 
 {
