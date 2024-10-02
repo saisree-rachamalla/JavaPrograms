@@ -4,7 +4,7 @@ public class PrintSubarrays
 {
 
 	public static void printSubarrays(int numbers[])
-   {                                                                         //PrintSubarrays
+   {                                                                     //PrintSubarrays
      int ts = 0;
     for(int i = 0;i<numbers.length;i++)
     {
