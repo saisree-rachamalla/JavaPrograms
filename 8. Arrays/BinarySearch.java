@@ -1,4 +1,3 @@
-package com.saisree.arrays;
 
 public class BinarySearch 
 {
