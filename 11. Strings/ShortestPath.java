@@ -1,4 +1,3 @@
-package com.saisree.strings;
 
 public class ShortestPath 
 {
