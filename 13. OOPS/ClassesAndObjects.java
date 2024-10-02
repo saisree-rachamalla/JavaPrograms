@@ -56,7 +56,7 @@ public class ClassesAndObjects
 
 	}
 
-	class Stud
+	class Student
 	{
 	    String name;
 	    int age;
