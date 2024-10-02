@@ -1,4 +1,3 @@
-package com.saisree.operators;
 
 public class AssignmentOperators 
 {
