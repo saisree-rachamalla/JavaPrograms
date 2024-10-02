@@ -1,7 +1,6 @@
-package com.saisree.variables;
+
 
 import java.util.*;
-
 
 public class VariablesAndDataTypes 
 {
