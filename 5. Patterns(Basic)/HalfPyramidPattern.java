@@ -3,12 +3,13 @@
 public class HalfPyramidPattern 
 {
 	public static void main(String args[]) 
-	 {
+	 {								 //Half Pyramid Pattern
+							
+	        int n = 4;						//    1		
+	        for(int line =1; line <= n; line++)			//    12
+	        {							//    123
+	            for(int number = 1; number <= line; number++)	//    1234
 
-	        int n = 4;
-	        for(int line =1; line <= n; line++)
-	        {
-	            for(int number = 1; number <= line; number++)
 	            {
 	                System.out.print(number);                     
 	            }
