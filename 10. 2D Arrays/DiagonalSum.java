@@ -1,4 +1,4 @@
-package com.saisree.matrices;
+
 
 public class DiagonalSum 
 {
