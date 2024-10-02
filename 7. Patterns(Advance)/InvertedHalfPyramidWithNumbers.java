@@ -11,8 +11,8 @@ public class InvertedHalfPyramidWithNumbers
 	          System.out.println();                        //  1 2 3 4 5 
 	      }                                                //  1 2 3 4
 	  }                                                    //  1 2 3
-		public static void main(String[] args) {           //  1 2
-		    inverted_half_pyramid(5);                      //  1
+		public static void main(String[] args) {       //  1 2
+		    inverted_half_pyramid(5);                  //  1
 		    
 		}
 
