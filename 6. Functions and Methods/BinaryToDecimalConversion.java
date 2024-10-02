@@ -7,7 +7,7 @@ public class BinaryToDecimalConversion
 	       int myNum = binNum;
 	       int pow = 0;
 	       int decNum = 0;
-	       													// Binary to Decimal Conversion.
+	       						 // Binary to Decimal Conversion.
 	       while(binNum > 0)
 	       {
 	           int lastDigit = binNum % 10;                                 
