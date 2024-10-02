@@ -4,7 +4,7 @@ public class MaximumSubArraySumUsingBruteForce
 {
 	 public static void maxsubarraysum(int numbers[])
 	 {         
-		 									//Maximum Sub Array Sum - Brute Force
+		 					       //Maximum Sub Array Sum - Brute Force
 
 	        int currsum = 0;
 	        int maxsum = Integer.MIN_VALUE;
