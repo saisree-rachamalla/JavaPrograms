@@ -1,4 +1,4 @@
-package com.saisree.patternspartwo;
+
 
 public class DiamondPattern 
 {
