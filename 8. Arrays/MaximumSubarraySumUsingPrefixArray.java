@@ -4,7 +4,7 @@ public class MaximumSubarraySumUsingPrefixArray
 {
 	 public static void maxsubarraysum(int numbers[])     
 	    { 
-	           int currsum = 0; 						  //Maximum Subarray Sum using Prefix Array
+	           int currsum = 0; 				     //Maximum Subarray Sum using Prefix Array
 	           int maxsum = Integer.MIN_VALUE;
 	           int prefix[] = new int [numbers.length];
 	           prefix[0] = numbers[0];
