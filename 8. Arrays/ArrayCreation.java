@@ -1,4 +1,4 @@
-package com.saisree.arrays;
+
 import java.util.*;
 public class ArrayCreation 
 {
