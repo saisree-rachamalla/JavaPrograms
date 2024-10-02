@@ -15,7 +15,7 @@ public class AbstarctClassAndAbstarctFunctions
 	    }
 	}
 
-	abstract class Animal1                                    // Abstarct class
+	abstract class Animal                                    // Abstract class
 	{
 	    void eat()
 	    {
@@ -25,7 +25,7 @@ public class AbstarctClassAndAbstarctFunctions
 	    abstract void walk();                                 //Abstarct Function
 	}
 
-	class Horse extends Animal1
+	class Horse extends Animal
 	{
 		
 	    void walk()
@@ -35,7 +35,7 @@ public class AbstarctClassAndAbstarctFunctions
 	    }
 	}
 
-	class Chicken extends Animal1
+	class Chicken extends Animal
 	{
 	    void walk()
 	    {
