@@ -3,17 +3,17 @@ public class Constructor
 {
 	 public static void main(String args[])
 	    {
-	        Student1 s1 = new Student1();
+	        Student s1 = new Student();
 
 	    }
 	}
 
-	class Student1
+	class Student
 	{
 	    String name;
 	    int roll;
 
-	    Student1()                                    //Constructor
+	    Student()                                    //Constructor
 	    {
 	        System.out.println("constructor is called...");
 
