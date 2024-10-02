@@ -10,10 +10,10 @@ public class AbstractClass
 	    }
 	}
 	//Base class 
-	abstract class Animal2
+	abstract class Animal
 	{
 		String color;
-	    Animal2()
+	    Animal()
 	    {
 	        System.out.println("animal constructor is called");
 
@@ -27,9 +27,9 @@ public class AbstractClass
 
 	}
 	//Derived class of Animal
-	class Hors extends Animal2
+	class Horse extends Animal
 	{
-	    Hors()
+	    Horse()
 	    {
 	        System.out.println("Horse constructor is called");
 	    }
@@ -47,7 +47,7 @@ public class AbstractClass
 	}
 	
 	//Derived class of Horse
-		class Mustang extends Hors
+		class Mustang extends Horse
 		{
 		    Mustang()
 		    {
@@ -57,7 +57,7 @@ public class AbstractClass
 		}
 
 	
-	class Chickenn extends Animal2
+	class Chickenn extends Animal
 	{
 		void changeColor()
 	    {
