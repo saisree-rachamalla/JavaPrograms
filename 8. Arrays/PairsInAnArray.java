@@ -3,7 +3,7 @@ package com.saisree.arrays;
 public class PairsInAnArray 
 {
 	 public static void printpairs(int numbers[])
-	    {                                                               // Pairs in an Array.
+	    {                                                        // Pairs in an Array.
 	        int tp = 0;
 	        for(int i=0;i<numbers.length;i++)
 	        {
