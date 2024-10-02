@@ -15,8 +15,8 @@ public class FloydsTrianglePattern
 	          System.out.println();                       // Floyds_triangle Pattern
 	      }                                                  //    1
 	  }                                                       //   2 3 
-		public static void main(String[] args) {              //   4 5 6 
-		    floyds_triangle(4);                                //  7 8 9 10 
+		public static void main(String[] args) {          //   4 5 6 
+		    floyds_triangle(4);                            //  7 8 9 10 
 		    
 		}
 
