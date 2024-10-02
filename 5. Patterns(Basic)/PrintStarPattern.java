@@ -1,4 +1,4 @@
-package com.saisree.patternspartone;
+
 
 public class PrintStarPattern 
 {
