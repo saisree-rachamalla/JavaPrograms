@@ -1,4 +1,4 @@
-package com.saisree.loops;
+
 import java.util.*;
 public class EvenSumAndOddSumUsingDoWhileLoop 
 {
