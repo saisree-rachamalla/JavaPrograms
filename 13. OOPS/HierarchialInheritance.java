@@ -14,7 +14,7 @@ public class HierarchialInheritance
 }
 
 	//Base class
-	class Ani
+	class Animal
 	{
 	    String color;
 
@@ -31,7 +31,7 @@ public class HierarchialInheritance
 	}
 
 	//Derived class of Animal
-	class Mammall extends Ani
+	class Mammal extends Animal
 	{
 	    void walk()
 	    {
@@ -40,7 +40,7 @@ public class HierarchialInheritance
 	}
 
 	//Derived class of Animal 
-	class Fishh extends Ani
+	class Fishh extends Animal
 	{
 	    void swim()
 	    {
@@ -49,7 +49,7 @@ public class HierarchialInheritance
 	}
 
 	//Derived class of Animal 
-	class Bird extends Ani
+	class Bird extends Animal
 	{
 	    void fly()
 	    {
