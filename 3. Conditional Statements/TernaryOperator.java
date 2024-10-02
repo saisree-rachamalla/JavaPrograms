@@ -1,4 +1,4 @@
-package com.saisree.conditionalstatements;
+
 
 public class TernaryOperator 
 {
