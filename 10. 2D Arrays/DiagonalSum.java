@@ -3,8 +3,8 @@ package com.saisree.matrices;
 public class DiagonalSum 
 {
 
-    public static int diagonalSum(int matrix[][])         // Printing diagonal sum in 2D array.
-    {
+    public static int diagonalSum(int matrix[][])         
+    {                                                     // Printing diagonal sum in 2D array.
         int sum = 0;
 
         for(int i =0; i< matrix.length;i++)                  // o(n^2)
