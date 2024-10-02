@@ -1,4 +1,4 @@
-package com.saisree.arrays;
+
 
 public class PrintSubarrays 
 {
