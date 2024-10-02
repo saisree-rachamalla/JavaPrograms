@@ -1,4 +1,4 @@
-package com.saisree.basicsorting;
+
 import java.util.Arrays;    			//Importing Arrays Package instead of *
 public class ImportingArraysPackage 
 {
