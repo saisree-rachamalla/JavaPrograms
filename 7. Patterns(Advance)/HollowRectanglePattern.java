@@ -1,4 +1,4 @@
-package com.saisree.patternspartwo;
+
 import java.util.*;
 public class HollowRectanglePattern 
 {
