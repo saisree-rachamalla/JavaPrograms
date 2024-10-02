@@ -1,4 +1,4 @@
-package com.saisree.conditionalstatements;
+
 import java.util.*;
 public class SwitchCase 
 {
