@@ -4,7 +4,7 @@ public class AbstarctClassAndAbstarctFunctions
 {
 	 public static void main(String args[])
 	    {
-	        Horse h = new Horse();             // Implementing Abstarct class and Abstarct Functions
+	        Horse h = new Horse();             // Implementing Abstract class and Abstract Functions
 	        h.eat();
 	        h.walk();
 
@@ -22,7 +22,7 @@ public class AbstarctClassAndAbstarctFunctions
 	        System.out.println("eats");
 	    }
 
-	    abstract void walk();                                 //Abstarct Function
+	    abstract void walk();                                 //Abstract Function
 	}
 
 	class Horse extends Animal
