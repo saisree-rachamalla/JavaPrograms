@@ -1,4 +1,4 @@
-package com.saisree.strings;
+
 
 public class StringCompression 
 {
