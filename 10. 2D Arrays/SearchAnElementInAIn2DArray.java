@@ -2,8 +2,8 @@ package com.saisree.matrices;
 import java.util.*;
 public class SearchAnElementInAIn2DArray 
 {
-	  public static boolean search(int matrix[][], int key)         //Search an element in an 2D Array.
-	  {      
+	  public static boolean search(int matrix[][], int key)        
+	  {                                                            //Search an element in an 2D Array.
 	        
 	        for(int i=0;i<matrix.length;i++)
 	        {
