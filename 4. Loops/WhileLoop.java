@@ -6,7 +6,7 @@ public class WhileLoop
 	{
 		 int counter = 0;
 	        while(counter < 10)
-	        {											 // printing hello world using While loop 
+	        {							 // printing hello world using While loop 
 	            System.out.println("Hello World");
 	            counter++;
 	        }                        
